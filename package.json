@@ -1,0 +1,23 @@
+{
+  "name": "javascript-tests",
+  "version": "1.0.0",
+  "description": "Unit tests for all native methods to better learn the language",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jkup/javascript-tests.git"
+  },
+  "keywords": [
+    "javascript",
+    "tests"
+  ],
+  "author": "Jon Kuperman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkup/javascript-tests/issues"
+  },
+  "homepage": "https://github.com/jkup/javascript-tests"
+}
