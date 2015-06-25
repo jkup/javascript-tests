@@ -1,9 +1,9 @@
 module.exports = function(config) {
   config.set({
-    frameworks: ['mocha'],
+    frameworks: ['mocha', 'chai'],
 
     files: [
-      '*.js'
+      'tests/**/*.js'
     ]
   });
 };
