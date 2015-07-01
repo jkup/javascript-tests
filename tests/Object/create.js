@@ -1,6 +1,6 @@
 describe('Object#create()', function(){
 
-  it('should return [2, 3, 4, 5, 6]', function(){
+  it('should return Persons name', function(){
     var Person = {
       name: 'Jon',
       age: 27
